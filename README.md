@@ -1,2 +1,2 @@
-# Sistema-de-alimenta-o-autom-tica-para-animais
+# Sistema de alimentação automática para animais
 Trabalho de Conclusão de Curso II - 2018/02
